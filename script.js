@@ -49,3 +49,4 @@ document.querySelectorAll('.upperButton').forEach(item => {//event listener for 
 //TODO
 //NEXT UP YOU NEED TO STARTS UPDATING THE DISPLAY AND TEST OTHER OPERATORS AND MAKE SURE EVERY BUTTON YOU HAVE
 //SET UP SO FAR WORKS AS INTENDED. 
+//then set up functionality to continue operating on the answer you receive. 
