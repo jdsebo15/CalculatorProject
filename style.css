@@ -24,6 +24,8 @@ body {
     background-color: lightblue;
     border-radius: 5px;
     border: 2px white solid;
+    height: 60px;
+    justify-content: flex-end;
 }
 .upperButtonContainer{
     display: flex;
